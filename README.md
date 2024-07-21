@@ -56,37 +56,42 @@ Ensure you have the following installed:
 
 **Frontend Project:**
 
-![Home Page](https://github.com/user-attachments/assets/fb66ce8f-7ef9-4526-b0f6-e6448773d602)
+![s1 1](https://github.com/user-attachments/assets/e1a43967-c993-4c56-932d-ca9977bd2dc0)
 
-![r1](https://github.com/user-attachments/assets/5adc8384-e791-4ac6-9a0f-258d5b2aa62e)
+![r1](https://github.com/user-attachments/assets/c61060a7-d39f-46a5-895f-7f25d331a7d9)
 
-![L1](https://github.com/user-attachments/assets/a6745da5-718e-4386-9863-c58061e4eddd)
+![L1](https://github.com/user-attachments/assets/da183d59-c607-43a9-9f51-8d7745ce7e87)
 
-![s2](https://github.com/user-attachments/assets/0f47a4f9-b414-4cfa-922a-2a07773ab9b9)
+![s2](https://github.com/user-attachments/assets/3a5a220a-9e09-4c5e-bb42-b996d5fd933c)
 
-![s3](https://github.com/user-attachments/assets/85a805bb-55d2-491e-a693-95faed74bb64)
+![s3](https://github.com/user-attachments/assets/6fd4311b-d38d-40e6-84db-6b4262185cde)
 
-![s4](https://github.com/user-attachments/assets/b565216e-2f51-4985-9f85-454c7d8c6669)
+![s4](https://github.com/user-attachments/assets/200e09c2-ff3e-43a5-9e0b-4aef59baf602)
 
-![s5](https://github.com/user-attachments/assets/290bb926-e5cf-4e18-992c-9c7bdbc91bc1)
+![s5](https://github.com/user-attachments/assets/e10b44ee-a2bb-4bf8-8cac-355243cf75b4)
 
-![s6](https://github.com/user-attachments/assets/e9928031-6a9a-44e7-a6c0-30d783866d6a)
+![s6](https://github.com/user-attachments/assets/f5f4f6e8-1b3d-4b0d-b8fa-1dcc77a5eee5)
 
-![s7](https://github.com/user-attachments/assets/608a79e4-3c20-47fb-873c-bf2f7096312a)
+![s7](https://github.com/user-attachments/assets/015dfc42-5876-4b78-81c2-0d45a5227f4d)
+
 
 **Backend Project:**
 
-**1.**![Screenshot 2024-07-20 200903](https://github.com/user-attachments/assets/e9ab815f-d053-445f-b456-91381f946797)
+**1.** ![Screenshot 2024-07-20 210407](https://github.com/user-attachments/assets/35f56e15-b6e4-43d2-8f5d-99c40cc6f216)
 
-**2.**![Screenshot 2024-07-20 210407](https://github.com/user-attachments/assets/e74aed6d-972a-4ac5-a3e5-8ce07786d1c4)
+**2.**  ![Screenshot 2024-07-20 232218](https://github.com/user-attachments/assets/9ec53d3e-c156-47d7-bbd1-f6433125fe1e)
 
-**3.**![Screenshot 2024-07-20 232218](https://github.com/user-attachments/assets/d896195e-7061-4433-83b3-8dacbc806d29)
 
-**4.**![Screenshot 2024-07-21 003042](https://github.com/user-attachments/assets/db102a6d-54ec-4b1d-925f-3e7d7692de20)
+**3.** ![Screenshot 2024-07-20 200903](https://github.com/user-attachments/assets/e8297731-48e8-45b7-8b7b-df30bdaf4fab)
+
+**4.**![Screenshot 2024-07-20 225332](https://github.com/user-attachments/assets/1fd4c4ed-7e25-4cc3-9fec-c5acabaa9fa1) 
+
+**5.** ![Screenshot 2024-07-21 003042](https://github.com/user-attachments/assets/20ea8f1a-8d94-4d62-a6c4-dd2824437399)
+
 
 ## Live Demo
 
-Explore the live demo of THE MONEY CLUB [here](https://your-live-demo-link.com).
+Explore the live demo of THE MONEY CLUB : https://sakshid9.github.io/HumanAlze-Hackathon_Megatron/
 
 ## Contributing
 
