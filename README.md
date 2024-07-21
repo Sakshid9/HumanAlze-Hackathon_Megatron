@@ -1,7 +1,7 @@
 
 # THE MONEY CLUB
 
-Welcome aboard to THE MONEY CLUB, your premier destination for mastering investment strategies and securing a better financial future. Founded by Harshvardhan and Sakshi in 2024, this app empowers you with real-time market insights to make well-informed investment decisions.
+Welcome aboard to THE MONEY CLUB, your premier destination for mastering investment strategies and securing a better financial future. Founded by Sakshi and Harshvardhan in 2024, this app empowers you with real-time market insights to make well-informed investment decisions.
 
 ## Table of Contents
 
