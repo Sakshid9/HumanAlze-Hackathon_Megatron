@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Money Club</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="Style.css">
+</head>
+
+<body>
+
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="logo">
+            <div class="square">
+                <div class="triangle"></div>
+            </div>
+            <span>Money Club</span>
+        </div>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a>
+                <div class="about-wrapper">
+                    <div class="about-content">
+                        <p>WELCOME aboard to one of the finest websites for understanding and learning how to invest,
+                            grow, and make a better future. THE MONEY CLUB!!!. Founded by Harshvardhan and Sakshi in 2024,
+                            this app gives us the liberty to see what the market trends are, so that we can have a fully
+                            focused decision on the type of investment. </p>
+                    </div>
+                </div>
+            </li>
+
+            <li><a href="#investments">Investments</a></li>
+            <li><a href="#testimonials">Testimonials</a></li>
+            <li><a href="#faq">FAQ</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+        <div class="my-account">
+            <a href="#">My Account</a>
+            <div class="dropdown">
+                <a href="#" onclick="openModal('loginModal')">Login</a>
+                <a href="#" onclick="openModal('registerModal')">Register</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <h1>Welcome to Money Club</h1>
+        <p class="intro-text">Your one-stop solution for all investment needs. Explore the best investment plans
+            tailored just for you.</p>
+        <button>Get Started</button>
+    </section>
+
+    <!-- Cards Section -->
+    <section class="cards">
+        <div class="card">
+            <h2>Investment Plan 1</h2>
+            <p>Discover the potential of our premium investment plans.</p>
+            <button>Learn More</button>
+        </div>
+        <div class="card">
+            <h2>Investment Plan 2</h2>
+            <p>Maximize your returns with our trusted strategies.</p>
+            <button>Learn More</button>
+        </div>
+        <div class="card">
+            <h2>Investment Plan 3</h2>
+            <p>Secure your future with our personalized investment options.</p>
+            <button>Learn More</button>
+        </div>
+        <div class="card">
+            <h2>Investment Plan 4</h2>
+            <p>Grow your wealth with expert guidance and support.</p>
+            <button>Learn More</button>
+        </div>
+    </section>
+
+    <!-- Investments Section -->
+    <section id="investments" class="investments-section">
+        <h2>Investment Options</h2>
+        <ul>
+            <li>Stocks</li>
+            <li>Bonds</li>
+            <li>Mutual Funds</li>
+            <li>ETFs</li>
+            <li>Real Estate</li>
+            <li>Commodities</li>
+            <li>Cryptocurrencies</li>
+        </ul>
+    </section>
+
+    <!-- Testimonials Section -->
+    <section id="testimonials" class="testimonials-section">
+        <h2>What Our Clients Say</h2>
+        <div class="testimonials">
+            <div class="testimonial">
+                <p>"Money Club has transformed my investment strategy. I'm now seeing consistent returns."</p>
+                <h3>John Doe</h3>
+            </div>
+            <div class="testimonial">
+                <p>"The platform is user-friendly and offers great advice. Highly recommend Money Club!"</p>
+                <h3>Jane Smith</h3>
+            </div>
+            <div class="testimonial">
+                <p>"Thanks to Money Club, I've diversified my portfolio and secured my financial future."</p>
+                <h3>Robert Brown</h3>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section id="faq" class="faq-section">
+        <h2>Frequently Asked Questions</h2>
+        <div class="faq">
+            <div class="faq-item">
+                <h3>What is Money Club? <span class="icon">+</span></h3>
+                <p>Money Club is an investment company that provides a better place for investments, offering various
+                    stable and user-friendly investment options.</p>
+            </div>
+            <div class="faq-item">
+                <h3>How do I start investing? <span class="icon">+</span></h3>
+                <p>You can start investing by creating an account, choosing an investment plan, and following the guided
+                    steps provided on our platform.</p>
+            </div>
+            <div class="faq-item">
+                <h3>What investment options are available? <span class="icon">+</span></h3>
+                <p>We offer a range of investment options including stocks, bonds, mutual funds, ETFs, real estate,
+                    commodities, and cryptocurrencies.</p>
+            </div>
+            <div class="faq-item">
+                <h3>Is my investment secure? <span class="icon">+</span></h3>
+                <p>Yes, we prioritize the security of your investments and use advanced security measures to protect
+                    your data and transactions.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Form -->
+    <section id="contact" class="contact-form">
+        <h2>Contact Us</h2>
+        <input type="text" placeholder="Your Name">
+        <input type="email" placeholder="Your Email">
+        <textarea rows="4" placeholder="Your Message"></textarea>
+        <button>Send Message</button>
+    </section>
+
+    <!-- Back to Top Button -->
+    <button class="back-to-top" onclick="scrollToTop()">Top</button>
+
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <p class="scroll-text">
+                <span class="rights">All rights reserved</span> | <span class="year">2024 Money Club</span>
+            </p>
+        </div>
+    </footer>
+
+
+    <!-- Login Modal -->
+    <div id="loginModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal('loginModal')">&times;</span>
+            <h2>Login</h2>
+            <input type="text" placeholder="Username">
+            <input type="password" placeholder="Password">
+            <button>Login</button>
+        </div>
+    </div>
+
+    <!-- Register Modal -->
+    <div id="registerModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal('registerModal')">&times;</span>
+            <h2>Register</h2>
+            <input type="text" placeholder="Username">
+            <input type="email" placeholder="Email">
+            <input type="password" placeholder="Password">
+            <button>Register</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+   
+</body>
+
+</html>
